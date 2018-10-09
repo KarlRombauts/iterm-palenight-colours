@@ -1,1 +1,1 @@
-# iterm-palenight-colours
+# iterm2 Preferences
