@@ -1,1 +1,1 @@
-# iterm2 Preferences
+# Iterm2 Preferences
